@@ -3,7 +3,7 @@
   (general
     (links 64)
     (no_connects 0)
-    (area 148.924999 84.924999 198.075001 142.075001)
+    (area 140.674999 84.924999 205.590001 142.075001)
     (thickness 1.6)
     (drawings 16)
     (tracks 133)
@@ -13,6 +13,12 @@
   )
 
   (page A4)
+  (title_block
+    (title "USB FT245R Parallel Adapter")
+    (date 2016-07-24)
+    (rev 1)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -85,7 +91,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory ""))
   )

@@ -39,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "USB FT245R Parallel Adapter"
-Date ""
+Date "2016-07-24"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -388,7 +388,7 @@ $Comp
 L R R10
 U 1 1 57938BF2
 P 7150 2200
-F 0 "R10" V 7100 2350 50  0000 C CNN
+F 0 "R10" V 7100 2400 50  0000 C CNN
 F 1 "100" V 7150 2200 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 7080 2200 50  0001 C CNN
 F 3 "" H 7150 2200 50  0000 C CNN
